@@ -3,7 +3,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Web3, Security, Go, Flutter
+- 🌱 &nbsp;I’m currently learning Web3, Security, Rust, AI Agnets 
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Blockchain
 - 📫 &nbsp;How to reach me: [@harshcrop](https://twitter.com/harshcrop)
 - ⚡ &nbsp;Fun fact: I can cook food 🥘 & Play Ukulele 🎸
