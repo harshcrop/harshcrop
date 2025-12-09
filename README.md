@@ -1,14 +1,23 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh</h1>
+<h3 align="center">This is the place where I open-source / Build / Cook stuff:rofl:</h3>
 
-[![Twitter: harshcrop](https://img.shields.io/twitter/follow/harshcrop?style=social)](https://twitter.com/harshcrop)
-![GitHub followers](https://img.shields.io/github/followers/harshcrop?label=Follow&style=social)
-[![Linkedin: harshcrop](https://img.shields.io/badge/-harshcrop-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshcrop/)](https://www.linkedin.com/in/harshcrop/) 
-[![Medium Badge](https://img.shields.io/badge/-@harshcrop-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@harshcrop/)](https://medium.com/@harshcrop/) 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:harshcrop@gmail.com)](mailto:harshcrop@gmail.com)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=harshcrop&label=Profile%20views&color=d4b3df&style=flat-square" alt="harshcrop" /> </p>
+<img align = "right" alt = coding height = "460px" src="">
 
-### Hi there <a href="https://twitter.com/harshcrop/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Web3, Security, Rust, AI Agnets 
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Blockchain
-- ⚡ &nbsp;Fun fact: I can cook food 🥘 & Play Ukulele 🎸
+
+- 🔭 I’m currently working on something AI & Web3 :wink:
+- 💬 Ask me about anything related to JavaScript/Typescript/React/Blockchain
+- ⚡ Fun fact: I can cook food 🥘 & Play Ukulele 🎸
+- 📫 How to reach me **harshcrop@gmail.com**
+
+##
+
+
+## 
+### Highlights
+
+> - 
+> - 
+
+
