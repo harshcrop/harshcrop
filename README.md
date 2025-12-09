@@ -1,23 +1,36 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh</h1>
-<h3 align="center">This is the place where I open-source / Build / Cook stuff:rofl:</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh
+</h1>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=harshcrop&label=Profile%20views&color=d4b3df&style=flat-square" alt="harshcrop" /> </p>
-<img align = "right" alt = coding height = "460px" src="">
+<h3 align="center">This is the place where I open-source/build/cook stuff! 🤣</h3>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=harshcrop&label=Profile%20views&color=d4b3df&style=flat-square" alt="harshcrop" />
+</p>
+
+<img align="right" alt="harsh" height="460px" src="https://github.com/user-attachments/assets/01c0fc2d-ae9e-4a96-a54f-2515fc4b705d">
+
+### 👨‍💻 About Me
+
+- 🥑 DevRel | 💻 Ex-CTO | Full-Stack Dev | Community Builder | Blockchain & AI Innovator | Startup & Open Source Enthusiast | Mentor & Speaker
+- 🔭 Currently building something around **AI & Web3** 😉  
+- 💬 Ask me about **JavaScript, TypeScript, React, Blockchain**  
+- ⚡ Fun fact: I can **cook food** 🥘 & play **ukulele** 🎸  
+- 📫 Reach me at **harshcrop@gmail.com**
+
+### 🌐 Connect With Me
+
+[![Twitter: harshcrop](https://img.shields.io/twitter/follow/harshcrop?style=social)](https://twitter.com/harshcrop)
+![GitHub followers](https://img.shields.io/github/followers/harshcrop?label=Follow&style=social)
+[![LinkedIn: harshcrop](https://img.shields.io/badge/-harshcrop-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshcrop/)
+[![Medium Badge](https://img.shields.io/badge/-@harshcrop-03a57a?style=social&labelColor=black&logo=Medium)](https://medium.com/@harshcrop/)
+
+---
+
+### 🧠 A Little Background
 
 
 
-- 🔭 I’m currently working on something AI & Web3 :wink:
-- 💬 Ask me about anything related to JavaScript/Typescript/React/Blockchain
-- ⚡ Fun fact: I can cook food 🥘 & Play Ukulele 🎸
-- 📫 How to reach me **harshcrop@gmail.com**
-
-##
-
-
-## 
-### Highlights
-
-> - 
-> - 
+---
 
 
