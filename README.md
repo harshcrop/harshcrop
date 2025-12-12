@@ -21,7 +21,6 @@
 ### 🌐 Connect With Me
 
 [![Twitter: harshcrop](https://img.shields.io/twitter/follow/harshcrop?style=social)](https://twitter.com/harshcrop)
-![GitHub followers](https://img.shields.io/github/followers/harshcrop?label=Follow&style=social)
 [![LinkedIn: harshcrop](https://img.shields.io/badge/-harshcrop-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshcrop/)
 [![Medium Badge](https://img.shields.io/badge/-@harshcrop-03a57a?style=social&labelColor=black&logo=Medium)](https://medium.com/@harshcrop/)
 
