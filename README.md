@@ -8,11 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=harshcrop&label=Profile%20views&color=d4b3df&style=flat-square" alt="harshcrop" />
 </p>
 
-<img align="right" alt="harsh" height="460px" src="https://github.com/user-attachments/assets/01c0fc2d-ae9e-4a96-a54f-2515fc4b705d">
-
 ### 👨‍💻 About Me
 
-- 🥑 DevRel | 💻 Ex-CTO | Full-Stack Dev | Community Builder | Blockchain & AI Innovator | Startup & Open Source Enthusiast | Mentor & Speaker
+- 🥑 DevRel | 💻 Ex-CTO | Full-Stack Dev | Community Builder |<br/>  Blockchain & AI Innovator | Startup & Open Source Enthusiast | Mentor & Speaker
 - 🔭 Currently building something around **AI & Web3** 😉  
 - 💬 Ask me about **JavaScript, TypeScript, React, Blockchain**  
 - ⚡ Fun fact: I can **cook food** 🥘 & play **ukulele** 🎸  
@@ -23,12 +21,6 @@
 [![Twitter: harshcrop](https://img.shields.io/twitter/follow/harshcrop?style=social)](https://twitter.com/harshcrop)
 [![LinkedIn: harshcrop](https://img.shields.io/badge/-harshcrop-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshcrop/)
 [![Medium Badge](https://img.shields.io/badge/-@harshcrop-03a57a?style=social&labelColor=black&logo=Medium)](https://medium.com/@harshcrop/)
-
----
-
-### 🧠 A Little Background
-
-
 
 ---
 
