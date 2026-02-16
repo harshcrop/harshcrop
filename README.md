@@ -22,6 +22,8 @@
 [![LinkedIn: harshcrop](https://img.shields.io/badge/-harshcrop-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harshcrop/)
 [![Medium Badge](https://img.shields.io/badge/-@harshcrop-03a57a?style=social&labelColor=black&logo=Medium)](https://medium.com/@harshcrop/)
 
----
+## Legacy Work
+- [🔑 Keycloak Theme](https://github.com/harshcrop/Cyboinsect-Keycloak-theme) - custom Keycloak theme includeing log in, sign up, and forgot password screens.
+- [🗣️ Social Media Wall](https://github.com/harshcrop/Social-Media-Wall) - Social Media Wall: Create a livestream of Twitter and Instagram during your event.
 
 
