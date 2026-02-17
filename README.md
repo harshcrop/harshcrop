@@ -25,5 +25,6 @@
 ## Legacy Work
 - [🔑 Keycloak Theme](https://github.com/harshcrop/Cyboinsect-Keycloak-theme) - custom Keycloak theme includeing log in, sign up, and forgot password screens.
 - [🗣️ Social Media Wall](https://github.com/harshcrop/Social-Media-Wall) - Social Media Wall: Create a livestream of Twitter and Instagram during your event.
+- [🏆 HackerChallenge](https://github.com/harshcrop/hackerchallange) - HackerChallenge is a repository dedicated to solving coding challenges and sharpening problem-solving skills
 
 
