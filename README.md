@@ -23,12 +23,12 @@
 [![Medium Badge](https://img.shields.io/badge/-@harshcrop-03a57a?style=social&labelColor=black&logo=Medium)](https://medium.com/@harshcrop/)
 
 ## Current Project
- - [❄️ OpenAPI UI Editor](open-api-ui-editor.vercel.app) - The project provides a workspace for editing, importing, and managing API specs, complete with modal dialogs for importing from CURL, uploading specs, and managing endpoints.
+ - [❄️ OpenAPI UI Editor](open-api-ui-editor.vercel.app) - The project provides a workspace for editing, importing, and managing API specs, complete with modal dialogues for importing from CURL, uploading specs, and managing endpoints.
  - [🔁 Dump SOL & Swap Multiple Tokens in One Click](https://dump-sol.vercel.app/) - Simplify your swaps: Convert multiple tokens into one with a single seamless click.
 
 
 ## Legacy Work
-- [🔑 Keycloak Theme](https://github.com/harshcrop/Cyboinsect-Keycloak-theme) - custom Keycloak theme includeing log in, sign up, and forgot password screens.
+- [🔑 Keycloak Theme](https://github.com/harshcrop/Cyboinsect-Keycloak-theme) - Custom Keycloak theme including login, sign up, and forgot password screens.
 - [🗣️ Social Media Wall](https://github.com/harshcrop/Social-Media-Wall) - Social Media Wall: Create a livestream of Twitter and Instagram during your event.
 - [🏆 HackerChallenge](https://github.com/harshcrop/hackerchallange) - This repository is dedicated to solving coding challenges and sharpening problem-solving skills
 
